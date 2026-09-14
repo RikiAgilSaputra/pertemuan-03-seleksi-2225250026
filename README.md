@@ -31,4 +31,4 @@ Langkah keputusan program tugas:
 | 0 | 1 | 9 | - | Bukan persamaan kuadrat | Bukan persamaan kuadrat | Success |
 
 ## Refleksi
-Jelaskan satu kesalahan logika yang ditemukan dan cara memperbaikinya.
+Satu kesalahan logika yang saya temukan bahwasannya if dapat dipakai untuk beberapa else, sedangkan if dan else harus selalu sepasang. Kemudian saya memperbaiki kesalahan tersebut dengan penggunaan nested if dengan penggunaan if dan else bersarang, di mana saya menggunakan if-else di dalam blok if ataupun else.
