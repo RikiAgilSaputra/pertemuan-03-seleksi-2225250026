@@ -21,7 +21,6 @@ Langkah keputusan program tugas:
 6.	Menentukan hasil jika diskriminan kurang dari 0 (D<0)
 
 ## Hasil Pengujian
-## Hasil Pengujian
 
 | a | b | c | d | Hasil yang diharapkan | Hasil aktual | Status |
 |---|---|---|---|---|---|---|
