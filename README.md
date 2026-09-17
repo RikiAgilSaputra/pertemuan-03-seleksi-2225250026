@@ -1,6 +1,8 @@
 # Pertemuan 03 Seleksi Python
 Nama :  RIKI AGIL SAPUTRA
+
 NIM  :  2225250026
+
 Kelas:  3A
 
 ## Tujuan
@@ -31,4 +33,6 @@ Langkah keputusan program tugas:
 | 0 | 1 | 9 | - | Bukan persamaan kuadrat | Bukan persamaan kuadrat | Success |
 
 ## Refleksi
-Satu kesalahan logika yang saya temukan bahwasannya if dapat dipakai untuk beberapa else, sedangkan if dan else harus selalu sepasang. Kemudian saya memperbaiki kesalahan tersebut dengan penggunaan nested if dengan penggunaan if dan else bersarang, di mana saya menggunakan if-else di dalam blok if ataupun else.
+Satu kesalahan logika yang saya temukan bahwasannya if dapat dipakai untuk beberapa else, sedangkan if dan else harus selalu sepasang. 
+
+Kemudian saya memperbaiki kesalahan tersebut dengan penggunaan nested if dengan penggunaan if dan else bersarang, di mana saya menggunakan if-else di dalam blok if ataupun else.
